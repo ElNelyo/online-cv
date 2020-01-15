@@ -166,8 +166,8 @@ skills:
     toolset:
       - name: Symfony
         level: 90%
-
-     - name: DevOps
+        
+      - name: DevOps
         level: 85%
 
       - name: Javascript & jQuery
