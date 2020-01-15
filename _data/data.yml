@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Développeur de 22 ans, passionné depuis un moment par le monde du web et de
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -74,11 +74,11 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analyste Programmeur
+      time: 2018 - Maintenant
+      company: EEnov, Bordeaux
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        En collaboration avec un autre développeur encadrer un projet sous le framework Symfony, corriger les bugs  your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -89,8 +89,8 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Développeur Web
+      time: 2017 - 2018
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -166,12 +166,12 @@ skills:
     toolset:
       - name: Symfony
         level: 90%
-        
-      - name: DevOps
-        level: 85%
 
       - name: Javascript & jQuery
         level: 75%
+        
+      - name: DevOps
+        level: 65%
 
       - name: LUA
         level: 50%
