@@ -167,20 +167,22 @@ skills:
       - name: Symfony
         level: 90%
 
-      - name: Javascript & jQuery
+     - name: DevOps
         level: 85%
 
-      - name: HTML5 & CSS
-        level: 60%
+      - name: Javascript & jQuery
+        level: 75%
 
       - name: LUA
+        level: 50%
+
+      - name: Python
         level: 40%
 
       - name: ReactJS
-        level: 15%
+        level: 30%
 
-      - name: DevOps
-        level: 15%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
