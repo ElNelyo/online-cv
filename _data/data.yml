@@ -44,51 +44,51 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Développeur de 22 ans, passionné depuis un moment par le monde du web et de
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Développeur de 22 ans, passionné par le monde du web et du digital.
+      Travailleur autonome, j'ai su m'intégrer dans des équipes projets ou bien me lancer seul dans un projet numérique.
+      Le Développement a toujours été un élément majeur et je souhaite en faire mon métier.
+      Vous pouvez retrouver une partie de mes projets open-source sur mon github (@ElNelyo)
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Responsable en ingénierie des logiciels (RIL) - Bac + 4
+      university: CESI
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Recueillir, analyser et formaliser les besoins logiciels de
+        l’entreprise
+        Élaborer, gérer et piloter un projet d’ingénierie logicielle
+        Participer à la conception, au développement et au déploiement
+        de la solution
+        Assurer le maintien en condition opérationnelle des solutions
+        logicielles de l’entreprise
+    - degree: Développement Application et Gestion de Projet Informatique (DAGPI) - Licence Professionelle
+      university: Université de Bordeaux
+      time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Maîtrise des différentes technologies dans le domaine de la conception et du
+       développement de systèmes d’information.
+       Les compétences managériales dans les domaines de la gestion de projets et de la démarche qualité
+       La capacité à dialoguer avec les différents intervenants d’un projet informatique.
+    - degree: Services informatiques aux organisation (SIO SLAM) - BTS 
+      university: Lycée Gustave Eiffel
+      time: 2015 - 2017
+      details: |
+       Maîtrise des différentes technologies dans le domaine de la conception et du
+       développement de systèmes d’information.
+       Les compétences managériales dans les domaines de la gestion de projets et de la démarche qualité
+       La capacité à dialoguer avec les différents intervenants d’un projet informatique.
 experiences:
     - role: Analyste Programmeur
       time: 2018 - Maintenant
       company: EEnov, Bordeaux
       details: |
-        En collaboration avec un autre développeur encadrer un projet sous le framework Symfony, corriger les bugs  your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Intégration au sein d'une équipe d'une dizaine de personne spécialisées dans le monde du digital.
+        Parmis les principaux objectifs, le premier étant le maintien et le développement d'applications métiers sous le framework Symfony
+        Gestion de projets d'une application, prise en charge de stagiaire/freelance
+        Mise en place d'intégration continue (Gitlab CI) et de déploiement continu (script Shell CD)
+        Mise en place d'environnement de test (PhpUnit & SonarQube)
+        Réunion , formation et réception des demandes clients
+        
     - role: Développeur Web
       time: 2017 - 2018
       company: Google, London
