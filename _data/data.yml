@@ -106,19 +106,20 @@ projects:
     assignments:
       - title: Family-V
         link: "https://family-v.fr/"
-        tagline: "Family-V est une communauté autour de GTA RolePlay.
+        tagline: "est une communauté autour de GTA RolePlay.
         Ce projet utilise un framework appelé ESX auquel j'ai pu participé activement.
-        Gestion communautaire, gestion de projet , maintenance applicatif, développement d'outils 
-        Création de serveur.
+        Gestion communautaire, gestion de projet , développement applicatif en LUA, développement d'outils externes
+        Création de serveur de jeu sous linux.
         "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: MagicMirror²
+        link: "https://magicmirror.builders/"
+        tagline: "framework en ElectronJS pour créer un miroir connecté/intéligent.
+        Création d'un module de reconnaissance/détection faciale utilisant OpenCV et d'un module utilisant OpenData Bordeaux Métropole."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ESX
+        link: "https://github.com/ESX-PUBLIC"
+        tagline: "Créations de plugins/core pour ESX, framework utilisant FiveM pour GTA RolePlay"
 
       - title: Atom
         link: "#"
@@ -129,26 +130,21 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Outils
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+Liste des outils que j'utilise quotidennement
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: JetBrains
+        conference: PHP Storm en IDE, YouTrack gestion de projet
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: SonarQube, PHP Unit 
+        conference: Tests unitaires/fonctionnels & Code coverage
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: GitLab CI
+        conference: Intégration continue via gitlab (build/test/staging)
+
+      - title: Git 
+        conference: Versionning fichier
 
 skills:
     title: Skills &amp; Proficiency
@@ -169,10 +165,13 @@ skills:
       - name: Python
         level: 40%
 
+      - name: Electron
+        level: 30%
+
       - name: ReactJS
         level: 30%
 
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Charly Stern
