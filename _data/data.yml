@@ -131,8 +131,7 @@ projects:
 
 publications:
     title: Outils
-    intro: |
-Liste des outils que j'utilise quotidennement
+    intro: "Liste des outils que j'utilise quotidennement"
     papers:
       - title: JetBrains
         conference: PHP Storm en IDE, YouTrack gestion de projet
