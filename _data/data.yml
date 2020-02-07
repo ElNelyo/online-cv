@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Développeur de 22 ans, passionné par le monde du web et du digital.
+      Analyste programmeur de 22 ans, passionné par le monde du web et du digital.
       Travailleur autonome, j'ai su m'intégrer dans des équipes projets ou bien me lancer seul dans un projet numérique.
-      Le Développement a toujours été un élément majeur et je souhaite en faire mon métier.
+      Le développement de projet a toujours été un élément majeur et je souhaite en faire mon métier.
       Vous pouvez retrouver une partie de mes projets open-source sur mon github (@ElNelyo)
       
 education:
@@ -60,8 +60,8 @@ education:
         Participer à la conception, au développement et au déploiement
         de la solution
         Assurer le maintien en condition opérationnelle des solutions
-        logicielles de l’entreprise
-    - degree: Développement Application et Gestion de Projet Informatique (DAGPI) - Licence Professionelle
+        logicielles.
+    - degree: Développement App et Gestion de Projet Informatique (DAGPI) - Licence Professionelle
       university: Université de Bordeaux
       time: 2017 - 2018
       details: |
@@ -73,54 +73,44 @@ education:
       university: Lycée Gustave Eiffel
       time: 2015 - 2017
       details: |
-       Maîtrise des différentes technologies dans le domaine de la conception et du
-       développement de systèmes d’information.
-       Les compétences managériales dans les domaines de la gestion de projets et de la démarche qualité
-       La capacité à dialoguer avec les différents intervenants d’un projet informatique.
+       Mise en place de solutions informatiques au sein des entreprises avec comme spécialité "solutions logicielles et applications métiers" (SLAM). 
 experiences:
-    - role: Analyste Programmeur
+    - role: Analyste Programmeur & Gestion de projet
       time: 2018 - Maintenant
       company: EEnov, Bordeaux
       details: |
         Intégration au sein d'une équipe d'une dizaine de personne spécialisées dans le monde du digital.
-        Parmis les principaux objectifs, le premier étant le maintien et le développement d'applications métiers sous le framework Symfony
-        Gestion de projets d'une application, prise en charge de stagiaire/freelance
+        Parmis les principaux objectifs, le premier étant le maintien et le développement d'applications métiers sous le framework Symfony.
+        Gestion de projet d'une application, prise en charge de stagiaire/freelance
         Mise en place d'intégration continue (Gitlab CI) et de déploiement continu (script Shell CD)
-        Mise en place d'environnement de test (PhpUnit & SonarQube)
-        Réunion , formation et réception des demandes clients
+        Mise en place d'environnements de test et de sécurisation de code (PhpUnit & SonarQube)
+        Réunion , formation et réception des demandes clients..
         
-    - role: Développeur Web
+    - role: Développeur Application
       time: 2017 - 2018
-      company: Google, London
+      company: Ministère des armées, Bordeaux
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Dans un cadre militaire, j'ai pu intégrer l'équipe de la plateforme achat-finance du sud-ouest (PFAFSO)
+        L'objectif de cette année était de maintenir et de développer de nouvelles fonctionnalités d'une application web de suivi de dépense (SUIDEP).
+        Ce développement était accompagné d'une gestion de projet.
+    - role: Développeur Junior
+      time: 2016
+      company: CGI, Bordeaux
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Observations sur les équipes de travail au sein de l'entrerpise CGI.
+        Développement de projet en PHP HTML/CSS POO.
 projects:
-    title: Projects
+    title: Projets
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Vous pouvez retrouver une liste non exhaustive des projets publiques et privés que j'ai pu réalisé.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Family-V
+        link: "https://family-v.fr/"
+        tagline: "Family-V est une communauté autour de GTA RolePlay.
+        Ce projet utilise un framework appelé ESX auquel j'ai pu participé activement.
+        Gestion communautaire, gestion de projet , maintenance applicatif, développement d'outils 
+        Création de serveur.
+        "
 
       - title: DevStudio
         link: "#"
