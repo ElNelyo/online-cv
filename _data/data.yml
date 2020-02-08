@@ -139,23 +139,23 @@ publications:
       - title: SonarQube, PHP Unit 
         conference: Tests unitaires/fonctionnels & Code coverage
 
-      - title: GitLab CI
-        conference: Intégration continue via gitlab (build/test/staging)
+      - title: GitLab 
+        conference: Versionning & Intégration continue via gitlab (build/test/staging)
 
       - title: Git 
         conference: Versionning fichier
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Symfony
+      - name: PHP (Symfony/CodeIgniter)
         level: 90%
 
       - name: Javascript & jQuery
         level: 75%
         
-      - name: DevOps
+      - name: DevOps (Docker, CI/CD)
         level: 65%
 
       - name: LUA
