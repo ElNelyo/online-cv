@@ -6,6 +6,9 @@ Pour accéder à la version PDF, cliquez sur Ctrl + P
 
 Ce CV a été créé via [online-cv](https://github.com/sharu725/online-cv).
 
+## Lien 
+
+https://elnelyo.github.io/online-cv/
 
 <table>
   <tr>
