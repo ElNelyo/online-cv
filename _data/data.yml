@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: charly.strn@gmail.com
-    phone:
+    phone:  
     website: 
     linkedin: charlystern
     github: elnelyo
@@ -23,6 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    car: Permis B
 
     languages:
       - idiom: Français
@@ -74,6 +75,11 @@ education:
       time: 2015 - 2017
       details: |
        Mise en place de solutions informatiques au sein des entreprises avec comme spécialité "solutions logicielles et applications métiers" (SLAM). 
+    - degree: Baccalauréat général S (option SVT)
+      university: Lycée Sans Frontières - Pessac
+      time: 2014 - 2015
+      details: |
+       Mention assez bien | section européenne Anglais
 experiences:
     - role: Analyste Programmeur & Gestion de projet
       time: 2018 - Maintenant
@@ -153,16 +159,16 @@ publications:
      
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Symfony
+      - name: PHP (Symfony/CodeIgniter)
         level: 90%
 
       - name: Javascript & jQuery
         level: 75%
         
-      - name: DevOps
+      - name: DevOps (Docker, CI/CD)
         level: 65%
 
       - name: LUA
