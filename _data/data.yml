@@ -110,11 +110,19 @@ projects:
     intro: >
         Vous pouvez retrouver une liste non exhaustive des projets publiques et privés que j'ai pu réalisé.
     assignments:
+
+    - title: Delta
+        link: "Multicom"
+        tagline: "ERP développé en Symfony, cet outil permet une gestion d'une promotion immobilière.
+        Création de programme immobilier, gestion des biens, gestion et suivi des ventes jusqu'à la signature électronique.
+        Comprend également une CRM et un suivi téléphonique synchronisé avec OVH.
+        "   
+
       - title: Family-V
         link: "https://family-v.fr/"
         tagline: "est une communauté autour de GTA RolePlay.
         Ce projet utilise un framework appelé ESX auquel j'ai pu participé activement.
-        Gestion communautaire, gestion de projet , développement applicatif en LUA, développement d'outils externes
+        Gestion communautaire, gestion de projet , développement applicatif en LUA, développement d'outils externes.
         Création de serveur de jeu sous linux.
         "
 
@@ -126,14 +134,6 @@ projects:
       - title: ESX
         link: "https://github.com/ESX-PUBLIC"
         tagline: "Créations de plugins/core pour ESX, framework utilisant FiveM pour GTA RolePlay"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Outils/Méthodes
