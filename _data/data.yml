@@ -130,7 +130,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Outils
+    title: Outils/Méthodes
     intro: "Liste des outils que j'utilise quotidennement"
     papers:
       - title: JetBrains
@@ -139,11 +139,18 @@ publications:
       - title: SonarQube, PHP Unit 
         conference: Tests unitaires/fonctionnels & Code coverage
 
-      - title: GitLab CI
-        conference: Intégration continue via gitlab (build/test/staging)
+      - title: GitLab CI/CD
+        conference: Intégration / Déploiement continu
 
       - title: Git 
         conference: Versionning fichier
+
+      - title: Méthodologie Agile/Scrum 
+        conference: Méthode gestion de projet
+      
+      -title: Front-End
+      conference: Tailwind - Bootstrap - Webpack
+     
 
 skills:
     title: Skills &amp; Proficiency
@@ -164,12 +171,14 @@ skills:
       - name: Python
         level: 40%
 
-      - name: Electron
+      - name: ElectronJS
         level: 30%
 
       - name: ReactJS
         level: 30%
 
+      - name: VueJS
+        level: 30%
 
 
 footer: >
