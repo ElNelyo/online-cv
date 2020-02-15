@@ -110,8 +110,8 @@ projects:
     intro: >
         Vous pouvez retrouver une liste non exhaustive des projets publiques et privés que j'ai pu réalisé.
     assignments:
-      - title: Delta
-        link: "Multicom"
+      - title: Multicom
+        link: "https://www.eenov.com/portfolio/"
         tagline: "ERP développé en Symfony, cet outil permet une gestion d'une promotion immobilière.
         Création de programme immobilier, gestion des biens, gestion et suivi des ventes jusqu'à la signature électronique.
         Comprend également une CRM et un suivi téléphonique synchronisé avec OVH."   
