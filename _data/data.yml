@@ -139,6 +139,7 @@ publications:
     title: Outils/Méthodes
     intro: "Liste des outils que j'utilise quotidennement"
     papers:
+
       - title: JetBrains
         conference: PHP Storm en IDE, YouTrack gestion de projet
 
@@ -155,7 +156,7 @@ publications:
         conference: Méthode gestion de projet
       
       - title: Front-End
-      conference: Tailwind / Bootstrap / Webpack
+        conference: Tailwind / Bootstrap / Webpack
      
 
 skills:
