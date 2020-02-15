@@ -166,7 +166,10 @@ skills:
 
       - name: Javascript & jQuery
         level: 75%
-        
+
+      - name: MySQL / PostgreSQL
+        level: 70%
+
       - name: DevOps (Docker, CI/CD)
         level: 65%
 
