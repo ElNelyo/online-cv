@@ -26,11 +26,11 @@ sidebar:
     car: Permis B
 
     languages:
-      - idiom: Allemand
-        level: A2
-
       - idiom: Anglais
         level: Professionnel
+
+      - idiom: Allemand
+        level: A2
 
     interests:
       - item: Développement
@@ -108,7 +108,7 @@ experiences:
 projects:
     title: Projets
     intro: >
-        Vous pouvez retrouver une liste non exhaustive des projets publics et privés que j'ai pu réaliser.
+        Vous pouvez retrouver un aperçu des projets publics et privés que j'ai pu réaliser.
     assignments:
       - title: Multicom
         link: "https://www.eenov.com/portfolio/"
