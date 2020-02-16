@@ -112,7 +112,7 @@ projects:
     assignments:
       - title: Multicom
         link: "https://www.eenov.com/portfolio/"
-        tagline: "ERP développé en Symfony, cet outil permet une gestion d'une promotion immobilière.
+        tagline: "ERP développé en Symfony, cet outil permet la gestion d'une promotion immobilière.
         Création de programme immobilier, gestion des biens, gestion et suivi des ventes jusqu'à la signature électronique.
         Comprend également un CRM et un suivi téléphonique synchronisé avec OVH."   
 
