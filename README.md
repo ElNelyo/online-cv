@@ -4,6 +4,11 @@ Vous pouvez retrouver içi mon curriculum vitae en ligne.
 
 Pour accéder à la version PDF, cliquez sur Ctrl + P 
 
+Version PDF téléchargable colorée :
+
+http://195.154.150.105/cv/cv-charly.pdf
+
+
 Ce CV a été créé via [online-cv](https://github.com/sharu725/online-cv).
 
 ## Lien 
