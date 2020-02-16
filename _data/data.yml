@@ -70,7 +70,7 @@ education:
        développement de systèmes d’information.
        Les compétences managériales dans les domaines de la gestion de projets et de la démarche qualité.
        La capacité à dialoguer avec les différents intervenants d’un projet informatique.
-    - degree: Services informatiques aux organisation (SIO SLAM) - BTS 
+    - degree: Services informatiques aux organisationsfpu (SIO SLAM) - BTS 
       university: Lycée Gustave Eiffel
       time: 2015 - 2017
       details: |
@@ -108,7 +108,7 @@ experiences:
 projects:
     title: Projets
     intro: >
-        Vous pouvez retrouver une liste non exhaustive des projets publiques et privés que j'ai pu réalisé.
+        Vous pouvez retrouver une liste non exhaustive des projets publics et privés que j'ai pu réaliser.
     assignments:
       - title: Multicom
         link: "https://www.eenov.com/portfolio/"
