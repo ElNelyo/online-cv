@@ -1,8 +1,10 @@
 # Curriculum Vitae
 
-Vous pouvez retrouver içi mon curriculum vitae en ligne.
+Vous pouvez retrouver ici mon curriculum vitae en ligne.
 
 Pour accéder à la version PDF, cliquez sur Ctrl + P 
+
+OU 
 
 Version PDF téléchargable colorée :
 
