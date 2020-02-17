@@ -11,8 +11,6 @@ Version PDF téléchargable colorée :
 http://195.154.150.105/cv/cv-charly.pdf
 
 
-Ce CV a été créé via [online-cv](https://github.com/sharu725/online-cv).
-
 ## Lien 
 
 https://elnelyo.github.io/online-cv/
