@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Stern Charly
-    tagline: Développeur / Chef de projet
+    tagline: Full Stack Dev / Chef de projet
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,7 +35,8 @@ sidebar:
     interests:
       - item: Développement
         link:
-
+      - item: BlockChain
+        link:
       - item: Sport
         link:
 
@@ -52,6 +53,14 @@ career-profile:
       Vous pouvez retrouver une partie de mes projets open-source sur mon github (@ElNelyo).
       
 education:
+    - degree: Manager Système d'Information (MSI) - Bac + 5
+      university: CESI
+      time: 2020 - Aujourd'hui
+      details: |
+        Manager les aspects humains, économiques et organisationnels du support informatique de l’entreprise
+        Gérer et manager le système d’information (SI)
+        Piloter un projet de conception ou d’évolution du SI
+        Mettre en oeuvre une expertise technique en informatique
     - degree: Responsable en ingénierie des logiciels (RIL) - Bac + 4
       university: CESI
       time: 2018 - 2020
@@ -117,6 +126,10 @@ projects:
         Création de programme immobilier, gestion des biens, gestion et suivi des ventes jusqu'à la signature électronique.
         Comprend également un CRM et un suivi téléphonique synchronisé avec OVH."   
 
+      - title: N-EXCLU
+        link: "https://twitter.com/n_exclu"
+        tagline: "Plateforme privé destiné aux artistes et aux curateurs (galeries, évenements, direction artistique).
+          Mise en vente d'oeuvre numérique via des enchères ou achat direct en crypto-monnaie sous forme de Tonken Non-Fongible (NFT) sur la blockchain"
       - title: Family-V
         link: "https://family-v.fr/"
         tagline: "est une communauté autour de GTA RolePlay.
@@ -135,12 +148,12 @@ projects:
         tagline: "Créations de plugins/core pour ESX, framework utilisant FiveM pour GTA RolePlay"
 
 publications:
-    title: Outils/Méthodes
+    title: Outils / Méthodes
     intro: "Liste des outils que j'utilise quotidennement"
     papers:
 
-      - title: JetBrains
-        conference: PHP Storm en IDE, YouTrack gestion de projet
+      - title: Gestion de projet
+        conference: YouTrack, Jira
 
       - title: SonarQube, PHP Unit 
         conference: Tests unitaires/fonctionnels & Code coverage
@@ -155,35 +168,38 @@ publications:
         conference: Méthode gestion de projet
       
       - title: Front-End
-        conference: Tailwind / Bootstrap / Webpack
+        conference: Tailwind  / Webpack / Bootstrap
      
 
 skills:
     title: Compétences
 
     toolset:
-      - name: PHP (Symfony/CodeIgniter)
+      - name: Symfony
         level: 90%
 
       - name: Javascript & jQuery
         level: 75%
 
-      - name: MySQL / PostgreSQL / Microsoft Sql Server
+      - name: MySQL
         level: 70%
 
       - name: DevOps (Docker, CI/CD)
         level: 65%
 
+      - name: ReactJS
+        level: 60%
+
       - name: LUA
         level: 50%
+
+      - name: Solidity
+        level: 45%
 
       - name: Python
         level: 40%
 
       - name: ElectronJS
-        level: 30%
-
-      - name: ReactJS
         level: 30%
 
       - name: VueJS
